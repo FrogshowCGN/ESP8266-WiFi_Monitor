@@ -1,4 +1,4 @@
-name: Bin erzeugen
+name: Generate bin from newest ino
 
 on:
   workflow_dispatch:
